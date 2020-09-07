@@ -123,6 +123,5 @@ def hashketball
         }
       }
     ]
-  }
 
 end
