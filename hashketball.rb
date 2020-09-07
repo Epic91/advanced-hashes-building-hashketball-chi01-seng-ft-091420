@@ -1,4 +1,5 @@
 # Write your code here!
+require "./hashketball_spec"
 def hashketball(game_hash)
   game_hash = {
     :home => {
