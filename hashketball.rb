@@ -1,6 +1,6 @@
 # Write your code here!
-def game_hash
-  hash = {
+def hashketball
+  game_hash = {
     :home => {
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"]
@@ -123,5 +123,6 @@ def game_hash
         }
       }
     ]
+  }
 
 end
